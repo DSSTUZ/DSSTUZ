@@ -2,11 +2,11 @@ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #top{position:fixed;width:100%;z-index:1;top:0;background-color:#fff;box-shadow:0 4px 4px 0 rgba(0,0,0,0.12),0 4px 4px 0 rgba(0,0,0,0.20)}
 #header{margin-left:3px;-webkit-user-select:none;-ms-user-select:none;user-select:none}
-#logotip{padding-top:5px;padding-bottom:4px;padding-left:14px;font-size:24px;font-family:"Oswald";float:left;color:#85C4CC;text-shadow:0.5px 0.7px #000}
+#logotip{padding-top:5px;padding-bottom:4px;padding-left:14px;font-size:24px;font-family:"Oswald";float:left;color:#051657;text-shadow:0.5px 0.7px #000}
 #soat{color:#fff}
 #oldingi{float:left}
 #keyingi{float:right}
-#oldingi,#keyingi{padding:2px 14px;background:#85C4CC;color:#fff;font-size:12px}
+#oldingi,#keyingi{padding:2px 14px;background:#051657;color:#fff;font-size:12px}
 .versiya{color:#fff;text-align:center}
-.dsst-half{background:#85C4CC}
-.dsst-t-half{color: #85C4CC}
+.dsst-half{background:#051657}
+.dsst-t-half{color: ##051657}
