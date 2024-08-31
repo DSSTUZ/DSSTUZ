@@ -5,6 +5,6 @@ function loadDoc() {
      document.getElementById("demo").innerHTML = this.responseText;
     }
   };
-  xhttp.open("GET", "https://uralbekuzbotajax.txt", true);
+  xhttp.open("GET", "https://uralbekuzbot.netlify.app/ajax.txt", true);
   xhttp.send();
 }
