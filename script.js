@@ -10,6 +10,6 @@ xhttp.send();
 function myFunction(xml) {
     var xmlDoc = xml.responseXML;
     var x = xmlDoc.getElementsByTagName("year");
-    document.getElementById("demo").innerHTML =
+    document.getElementById("demo6").innerHTML =
     x[2].childNodes[0].nodeValue;
 }
