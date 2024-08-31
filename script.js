@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "Hello World! Buguning uchun";
+document.getElementById("demo").innerHTML = "Date : " + Date();
