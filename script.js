@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "Date : " + Date();
+document.getElementById("demo").innerHTML = "Hello World!";
