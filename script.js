@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "Hello World!";
+document.getElementById("demo").innerHTML = "Bugun mening tug'ilgan kunim ";
